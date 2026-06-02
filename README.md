@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| คมพล ศิริโสภณพร | Team 13 | Project Manager / Scrum Lead | [example evidence](docs/evidence/example-student.md) | - |
+| คมพล ศิริโสภณพร | Team 13 | Project Manager / Scrum Lead | https://github.com/67050150-hub/github101-practice/tree/main/docs/evidence | https://github.com/67050150-hub/github101-practice/tree/main/docs/issues |
 
 ---
 
